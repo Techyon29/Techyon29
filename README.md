@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Header with animated greeting -->
+  <!-- Header -->
   <h1>Hi there! 👋 I'm <span style="color:#00d4ff">Vishal Kumar Pachauri</span></h1>
 
   <p>
@@ -11,7 +11,7 @@
     Building modern web experiences with <strong>Next.js + TypeScript</strong> and intelligent AI-powered applications.
   </p>
 
-  <!-- Social & Contact Badges -->
+  <!-- Social Badges -->
   <p>
     <a href="mailto:vishalpachauri12@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -27,7 +27,10 @@
     </a>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=Techyon29&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <!-- Visitor Counter -->
+  <p>
+    <img src="https://profile-counter.glitch.me/Techyon29/count.svg" alt="Visitor Count" />
+  </p>
 
 </div>
 
@@ -40,42 +43,31 @@
   - Working with **Next.js + TypeScript**
   - Built backend for Photographer Portfolio Website
   - Optimized UI/UX for **nyrez.com** e-commerce platform
-- 🔥 Passionate about **Full-Stack Development**, **AI Integration**, and solving real-world problems through code
-- ⚡ Currently exploring **FastAPI**, **Generative AI**, and scalable web architectures
+- 🔥 Passionate about **Full-Stack Development**, **AI Integration**, and creating scalable solutions
 
 ### 🛠️ Tech Stack
 
-**Programming Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**My Skills**
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,react,nextjs,tailwind,nodejs,express,fastapi,mongodb,mysql,git,github" alt="Tech Stack Icons" />
+  </a>
+</p>
 
-**Backend & AI**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-00F0FF?style=for-the-badge&logo=groq&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+**AI & Tools**  
+Groq (LLaMA) • OpenAI SDK • Prompt Engineering • Framer Motion • Vitest
 
-**Databases & Tools**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+---
 
 ### 🔥 Featured Projects
 
 **🎥 FilmInfo - AI Movie Insight Builder**  
-A responsive React app that fetches movie data from TMDB and uses **Groq (LLaMA)** AI for real-time sentiment analysis of reviews.  
+Responsive React app with real-time **Groq (LLaMA)** sentiment analysis on movie reviews.  
 [→ View on GitHub](https://github.com/Techyon29/filminfo-assignment)
 
 **🔐 Authentication System**  
-Secure full-stack auth with **MERN Stack**, OTP verification via Nodemailer, and clean APIs.  
+Secure MERN stack authentication with OTP verification using Nodemailer.  
 [→ View on GitHub](https://github.com/Techyon29/MERN-AUTH)
 
 ### 📊 GitHub Stats
@@ -93,7 +85,7 @@ Secure full-stack auth with **MERN Stack**, OTP verification via Nodemailer, and
 
 ### 🌟 Let's Connect!
 
-I'm always open to **collaborations**, **internship opportunities**, or just chatting about **web development**, **AI**, or **competitive programming**.
+I'm open to **collaborations**, **open source contributions**, or discussions about **web development** and **AI**.
 
 Feel free to reach out!
 
